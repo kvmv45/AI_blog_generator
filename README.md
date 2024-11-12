@@ -26,7 +26,7 @@ pip install streamlit langchain transformers
 
 **Clone the Repository:**
 
-git clone https://github.com/kvmv45/ai-blog-content-generator.git
+git clone https://github.com/kvmv45/AI_blog_content_generator.git
 cd ai-blog-content-generator
 
 **Set Up Environment Variables:**
